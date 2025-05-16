@@ -1,6 +1,6 @@
 ---
 title: "Om mig"
-permalink: /about/
+permalink: about/
 author_profile: true
 ---
 
