@@ -1,3 +1,16 @@
+# Om mig
+
+Hej! Jag heter Emma Forsberg.
+
+<b>Detta är fetstil med HTML.</b>
+<br>
+<i>Detta är kursiv text med HTML.</i>
+<img src="/images/minbild.jpg" alt="Min bild" width="200">
+
+Du kan också använda vanlig Markdown *så här*.
+
+
+
 ---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
